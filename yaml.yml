@@ -7,7 +7,7 @@ data types
 data types in yaml 
 number: 1 
 bool: true/false
-string: sujata
+string: anup
 list: ["anup" , "anup" , "b24" ]
 set: {"lily" , "Rose" , }
 map: { flower:lily , fruit:mango}
@@ -32,3 +32,7 @@ address:
       Adressline: |
         Near saraswati bank
         nal stop
+
+
+
+
